@@ -1,0 +1,139 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin-top: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+header{
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.up{
+    display: flex; 
+}
+
+.head{
+    display: flex;
+}
+
+.image0{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: -10px;
+}
+
+h3{
+    margin-left: 30px;
+    float: left;
+    margin-top: -3px;
+}
+
+.link{
+    margin-left: 420px;
+    word-spacing: 3em;
+}
+.lin{
+    color: pink;
+    text-decoration: none;
+}
+
+.down{
+    float: right;
+    margin-top:20px;                                                      
+}
+
+.search{
+    width: 400px;
+    border: 1px solid pink;
+    border-radius: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.log-out0{
+    background: pink;
+    border-radius: 3px;
+}
+.log-out1{
+    color: white;
+}
+main{
+    margin-top: 50px;
+}
+.section1{
+    margin-bottom: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: red;
+}
+.image1{
+    width: 200px;
+    height: 130px;
+    float: right;
+    margin-top: -173px;
+}
+
+.section2{
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid pink;
+    border-radius: 30px;
+    width: 700px;
+    height: 380px; 
+}
+
+.leftside{
+    margin-left: 40px;
+    margin-top: 45px;
+    
+}
+.rightside{
+    margin-left: 500px;
+    margin-top: -300px;
+}
+
+label{
+    display: flex;
+    margin-left: -30px;
+    line-break: anywhere;
+}
+
+.top-right{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.submit{
+    margin-left: 20px;
+    margin-top: 40px;
+    color: white;
+    background-color: black;
+    border-radius: 2px;
+}
+.delete{
+    margin-left: 20px;
+    border: 1px solid pink;
+    background-color: white;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.create{
+    margin-left: 20px;
+    background-color: white;
+}
+
+footer{
+    margin-top: 200px;
+    font-size: large;
+    border: 1px solid pink;
+    border-radius: 4px;
+}
+h4{
+    text-align: center;
+    color: pink;
+}
+p{
+    text-align: center; 
+}
